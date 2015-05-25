@@ -15,19 +15,18 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Kala Bharath's Personal Website"
+keywords:    "Kala Bharath Pilla, Kala Bharath PhD, PCS, RDC, Smotifs, Hybrid structure prediction, Protein structure prediction"
+description: "Personal website for my research, code and rant "
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:  ## UA-49607422-1 put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
+  black:     '#542437' #'#111111'
+  white:     '#C02942'        #'#f8f8f8'
   blue:      '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#c869bf'
