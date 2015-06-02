@@ -5,8 +5,11 @@ color: white
 fa-icon: institution
 ---
 
-Research Publications
-=====================
+Publications
+============
+
+Research Articles
+-----------------
 
 **5. Capturing Conformational States in Proteins Using Sparse Paramagnetic NMR Data.**<br>
 **KB Pilla**, J Koehler Leman, G Otting, T Huber. <br>
@@ -27,3 +30,9 @@ Bioinformation 4 (2), 71 10 2009.
 **1. Open discovery: An integrated live Linux platform of Bioinformatics tools**<br>
 U Vetrivel, **KB Pilla**.<br>
 Bioinformation 3 (4), 144 7 2008.
+
+Book Chapter
+------------
+**3D Computational Modelling of Proteins Using Sparse Paramagnetic NMR Data.**<br>
+ **KB Pilla**, G Otting, T huber.<br>
+ Bioinformatics , Methods in Molecular Biology, Humana. Editor: Jonathan Keith (in press) 
