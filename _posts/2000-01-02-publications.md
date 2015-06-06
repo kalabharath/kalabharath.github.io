@@ -1,12 +1,10 @@
 ---
-title: "Research"
+title: "Publications"
 bg: blue
 color: white
 fa-icon: institution
 ---
 
-Publications
-============
 
 Research Articles
 -----------------
