@@ -516,18 +516,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-usage { border-color: #63BD2F; }
-  #usage { background-color: #63BD2F !important; color: #FFFFFF; }
-  #usage a { color: #FFFFFF; }
-  #usage .sectiondivider { color: #63BD2F; }
-
-  
-  
-  
-  nav .p-details { border-color: #CC1414; }
-  #details { background-color: #CC1414 !important; color: #0C0E0D; }
-  #details a { color: #0C0E0D; }
-  #details .sectiondivider { color: #CC1414; }
+  nav .p-research { border-color: #CC1414; }
+  #research { background-color: #CC1414 !important; color: #0C0E0D; }
+  #research a { color: #0C0E0D; }
+  #research .sectiondivider { color: #CC1414; }
 
   
   
