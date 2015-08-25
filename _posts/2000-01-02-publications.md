@@ -8,6 +8,8 @@ fa-icon: institution
 
 Research Articles
 -----------------
+Link to my [Google Scholar][0] profile.
+
 
 **5. Capturing Conformational States in Proteins Using Sparse Paramagnetic NMR Data.**<br>
 **KB Pilla**, J Koehler Leman, G Otting, T Huber. <br>
@@ -35,8 +37,10 @@ Book Chapter
  **KB Pilla**, G Otting, T huber.<br>
  Bioinformatics , Methods in Molecular Biology, Humana. Editor: Jonathan Keith (in press) 
 
+
 [5]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127053 "link"
 [4]: http://comp-bio.anu.edu.au/huber/papers/hiromasa_structure2013.pdf "pdf"
 [3]: http://comp-bio.anu.edu.au/huber/papers/kala_jacs2013.pdf
 [2]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2823384/
 [1]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2637960/
+[0]: https://scholar.google.com.au/citations?user=vgdqy80AAAAJ&hl=en
