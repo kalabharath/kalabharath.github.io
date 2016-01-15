@@ -11,8 +11,8 @@ Research Articles
 Link to my [Google Scholar][0] profile.
 
 
-**6. Pseudocontact shift-driven iterative resampling for 3D structure determinations of large proteins **<br>
-**KB Pilla**, G Otting, T Huber. <br>
+**6. Pseudocontact shift-driven iterative resampling for 3D structure determinations of large proteins.**<br>
+**KB Pilla**, G Otting, T Huber.<br>
 J. Mol. Biol., in press  
 
 
