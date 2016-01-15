@@ -11,6 +11,11 @@ Research Articles
 Link to my [Google Scholar][0] profile.
 
 
+**6. Pseudocontact shift-driven iterative resampling for 3D structure determinations of large proteins **<br>
+**KB Pilla**, G Otting, T Huber. <br>
+J. Mol. Biol., in press  
+
+
 **5. Capturing Conformational States in Proteins Using Sparse Paramagnetic NMR Data.**<br>
 **KB Pilla**, J Koehler Leman, G Otting, T Huber. <br>
 PLoS ONE 10(5): e0127053 2015  [link to open access article][5] 
