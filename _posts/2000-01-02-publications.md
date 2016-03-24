@@ -11,13 +11,9 @@ Research Articles
 Link to my [Google Scholar][0] profile.
 
 
-**7. 3D Computational Modelling of Proteins Using Sparse Paramagnetic NMR Data.**<br>
-**KB Pilla**, G Otting, T huber.<br>
- Bioinformatics , Methods in Molecular Biology, Humana. Editor: Jonathan Keith (in press) 
-
 **6. Pseudocontact shift-driven iterative resampling for 3D structure determinations of large proteins.**<br>
 **KB Pilla**, G Otting, T Huber.<br>
-J. Mol. Biol. 428, 522-532 (2016) <i class="fa fa-file-pdf-o"></i> [pdf][6] Supp [pdf][7]
+J. Mol. Biol., in press  
 
 
 **5. Capturing Conformational States in Proteins Using Sparse Paramagnetic NMR Data.**<br>
@@ -40,10 +36,13 @@ Bioinformation 4 (2), 71 10 2009. [link to open access article][2]
 U Vetrivel, **KB Pilla**.<br>
 Bioinformation 3 (4), 144 7 2008. [link to open access article][1]
 
-----------
+Book Chapter
+------------
+**3D Computational Modelling of Proteins Using Sparse Paramagnetic NMR Data.**<br>
+ **KB Pilla**, G Otting, T huber.<br>
+ Bioinformatics , Methods in Molecular Biology, Humana. Editor: Jonathan Keith (in press) 
 
-[7]: http://rsc.anu.edu.au/~go/reprints/JMB2016_428_522_supp.pdf
-[6]: http://rsc.anu.edu.au/~go/reprints/JMB2016_428_522.pdf
+
 [5]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127053 "link"
 [4]: http://comp-bio.anu.edu.au/huber/papers/hiromasa_structure2013.pdf "pdf"
 [3]: http://comp-bio.anu.edu.au/huber/papers/kala_jacs2013.pdf
