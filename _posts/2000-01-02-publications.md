@@ -10,9 +10,9 @@ Research Articles
 -----------------
 Link to my [Google Scholar][0] profile.
 
-**8. Sensitive NMR approach for determining the binding mode of tightly binding ligand molecules to protein targets
-W.-N. Chen, C. Nitsche, **K. B. Pilla, B. Graham, T. Huber, C. D. Klein, G. Otting
-Journal of the American Chemical Society, in press         
+**8. Sensitive NMR approach for determining the binding mode of tightly binding ligand molecules to protein targets.**<br>
+W.-N. Chen, C. Nitsche, **K. B. Pilla**, B. Graham, T. Huber, C. D. Klein, G. Otting<br>
+Journal of the American Chemical Society, in press <br>         
 
 
 **7. Pseudocontact shift-driven iterative resampling for 3D structure determinations of large proteins.**<br>
