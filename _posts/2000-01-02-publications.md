@@ -10,10 +10,18 @@ Research Articles
 -----------------
 Link to my [Google Scholar][0] profile.
 
+**8. Sensitive NMR approach for determining the binding mode of tightly binding ligand molecules to protein targets
+W.-N. Chen, C. Nitsche, **K. B. Pilla, B. Graham, T. Huber, C. D. Klein, G. Otting
+Journal of the American Chemical Society, in press         
 
-**6. Pseudocontact shift-driven iterative resampling for 3D structure determinations of large proteins.**<br>
+
+**7. Pseudocontact shift-driven iterative resampling for 3D structure determinations of large proteins.**<br>
 **KB Pilla**, G Otting, T Huber.<br>
 J. Mol. Biol. 428, 522-532 (2016) <i class="fa fa-file-pdf-o"></i> [pdf][6] Supp <i class="fa fa-file-pdf-o"></i> [pdf][7]
+
+**6. 3D Computational Modelling of Proteins Using Sparse Paramagnetic NMR Data.**<br>
+ **KB Pilla**, G Otting, T huber.<br>
+ Bioinformatics , Methods in Molecular Biology, Humana. Editor: Jonathan Keith (in press)
 
 **5. Capturing Conformational States in Proteins Using Sparse Paramagnetic NMR Data.**<br>
 **KB Pilla**, J Koehler Leman, G Otting, T Huber. <br>
@@ -35,12 +43,6 @@ Bioinformation 4 (2), 71 10 2009. [link to open access article][2]
 U Vetrivel, **KB Pilla**.<br>
 Bioinformation 3 (4), 144 7 2008. [link to open access article][1]
 
-Book Chapter
-------------
-**3D Computational Modelling of Proteins Using Sparse Paramagnetic NMR Data.**<br>
- **KB Pilla**, G Otting, T huber.<br>
- Bioinformatics , Methods in Molecular Biology, Humana. Editor: Jonathan Keith (in press)
-  
   
 [7]: http://comp-bio.anu.edu.au/huber/papers/Kala_JMB2016_supp.pdf
 [6]: http://comp-bio.anu.edu.au/huber/papers/Kala_JMB2016.pdf
