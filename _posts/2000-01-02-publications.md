@@ -39,7 +39,9 @@ Book Chapter
 ------------
 **3D Computational Modelling of Proteins Using Sparse Paramagnetic NMR Data.**<br>
  **KB Pilla**, G Otting, T huber.<br>
- Bioinformatics , Methods in Molecular Biology, Humana. Editor: Jonathan Keith (in press) 
+ Bioinformatics , Methods in Molecular Biology, Humana. Editor: Jonathan Keith (in press)
+  
+  
 [7]: http://comp-bio.anu.edu.au/huber/papers/Kala_JMB2016_supp.pdf
 [6]: http://comp-bio.anu.edu.au/huber/papers/Kala_JMB2016.pdf
 [5]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127053 "link"
