@@ -11,8 +11,8 @@ Research Articles
 Link to my [Google Scholar][0] profile.
 
 **9. Protein structure determination by assembliing super-secondary structure motifs using pseudocontact shifts**<br>
-**K. B. Pilla**, G. Otting, T. Huber </br>
-Structure 25, 559-568 (2017) </br>
+**K. B. Pilla**, G. Otting, T. Huber <br>
+Structure 25, 559-568 (2017) <br>
 
 
 **8. Sensitive NMR approach for determining the binding mode of tightly binding ligand molecules to protein targets**<br>
