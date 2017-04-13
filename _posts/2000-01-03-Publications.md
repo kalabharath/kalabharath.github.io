@@ -17,7 +17,7 @@ Structure 25, 559-568 (2017) <br>
 
 **8. Sensitive NMR approach for determining the binding mode of tightly binding ligand molecules to protein targets**<br>
 W.-N. Chen, C. Nitsche, **K. B. Pilla**, B. Graham, T. Huber, C. D. Klein, G. Otting<br>
-Journal of the American Chemical Society, 138, 4581-4586 (2016) <br>
+J. Am. Chem. Soc, 138, 4581-4586 (2016) <br>
 
 
 **7. Pseudocontact shift-driven iterative resampling for 3D structure determinations of large proteins**<br>
@@ -26,7 +26,7 @@ J. Mol. Biol. 428, 522-532 (2016) <i class="fa fa-file-pdf-o"></i> [pdf][6] Supp
 
 **6. 3D Computational Modelling of Proteins Using Sparse Paramagnetic NMR Data**<br>
  **KB Pilla**, G Otting, T huber.<br>
- Bioinformatics , Methods in Molecular Biology, Humana. Editor: Jonathan Keith (in press)
+ Bioinformatics: Volume II: Structure, Function, and Applications, 3-21 <br>
 
 **5. Capturing Conformational States in Proteins Using Sparse Paramagnetic NMR Data**<br>
 **KB Pilla**, J Koehler Leman, G Otting, T Huber. <br>
@@ -38,7 +38,7 @@ Structure 21 (6), 883-890 11 2013. <i class="fa fa-file-pdf-o"></i> [pdf][4]
 
 **3.Magic angle spinning NMR structure determination of proteins from pseudocontact shifts**<br>
 J Li, **KB Pilla**, Q Li, Z Zhang, X Su, T Huber, J Yang.<br>
-Journal of the American Chemical Society 135 (22), 8294-8303, 11 2013. <i class="fa fa-file-pdf-o"></i> [pdf][3]
+J. Am. Chem. Soc, 135 (22), 8294-8303, 11 2013. <i class="fa fa-file-pdf-o"></i> [pdf][3]
 
 **2. InPACdb Indian plant anticancer compounds database.**<br>
 U Vetrivel, N Subramanian, **KB Pilla**.<br>
