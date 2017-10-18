@@ -11,7 +11,7 @@ Research Articles
 Link to my [Google Scholar][0] profile.
 
 **10. Molecular modeling of biomolecules by paramagnetic NMR and computational hybrid methods**<br>
-**KB Pilla**, K Gaalswyk, JL MacCallum <br>
+**K.B. Pilla**, K. Gaalswyk, J.L. MacCallum <br>
 Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics 1865, 1654-1663 (2017) <br>
 
 
