@@ -10,6 +10,11 @@ Research Articles
 -----------------
 Link to my [Google Scholar][0] profile.
 
+**10. Molecular modeling of biomolecules by paramagnetic NMR and computational hybrid methods**</br>
+**KB Pilla**, K Gaalswyk, JL MacCallum </br>
+Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics 1865, 1654-1663 (2017) </br>
+
+
 **9. Protein structure determination by assembliing super-secondary structure motifs using pseudocontact shifts**<br>
 **K. B. Pilla**, G. Otting, T. Huber <br>
 Structure 25, 559-568 (2017) <br>
