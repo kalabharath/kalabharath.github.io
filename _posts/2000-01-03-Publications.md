@@ -10,20 +10,37 @@ Research Articles
 -----------------
 Link to my [Google Scholar][0] profile.
 
+**15 Bayesian metamodeling of complex biological systems across varying representations** <br>
+B. Raveh, L. Sun, K.L. White, T. Sanyal, J. Tempkin, D. Zheng, **K.B. Pilla**, J. Singla, C. Wang, J. Zha, A. Li, N.A. Graham, C. Kesselman, R.C. Stevens, A. Sali <br>
+Proc Natl Acad Sci USA 118, e2104559118, 2021 <br>
+
+**14 Macromolecular modeling and design in Rosetta: recent methods and frameworks**<br>
+J.K Leman, B.D Weitzner,[..] **K.B. Pilla** et al.<br>
+Nature methods 17 (7), 665-680	
+
+**13 A SARS-CoV-2 protein interaction map reveals targets for drug repurposing**<br>
+D.E. Gordon, G.M. Jang.[..] **K.B. Pilla** et al.<br>
+Nature 583 (7816), 459-468 <br>
+
+**12 SSEThread: Integrative threading of the DNA-PKcs sequence based on data from chemical cross-linking and hydrogen deuterium exchange**<br>
+D.J. Saltzberg, M. Hepburn, **K.B Pilla**, DC Schriemer, SP Lees-Miller, T.L. Blundell, A. Sali <br>
+Progress in biophysics and molecular biology 147, 92-102<br>
+
+**11. Protein Fold Determination by Assembling Extended Super-Secondary Structure Motifs Using Limited NMR Data**<br>
+**K.B. Pilla**<br>
+bioRxiv, 509356
+
 **10. Molecular modeling of biomolecules by paramagnetic NMR and computational hybrid methods**<br>
 **K.B. Pilla**, K. Gaalswyk, J.L. MacCallum <br>
 Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics 1865, 1654-1663 (2017) <br>
-
 
 **9. Protein structure determination by assembliing super-secondary structure motifs using pseudocontact shifts**<br>
 **K. B. Pilla**, G. Otting, T. Huber <br>
 Structure 25, 559-568 (2017) <br>
 
-
 **8. Sensitive NMR approach for determining the binding mode of tightly binding ligand molecules to protein targets**<br>
 W.-N. Chen, C. Nitsche, **K. B. Pilla**, B. Graham, T. Huber, C. D. Klein, G. Otting<br>
 J. Am. Chem. Soc, 138, 4581-4586 (2016) <br>
-
 
 **7. Pseudocontact shift-driven iterative resampling for 3D structure determinations of large proteins**<br>
 **K. B Pilla**, G. Otting, T. Huber.<br>
