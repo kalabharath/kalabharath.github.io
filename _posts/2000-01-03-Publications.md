@@ -10,9 +10,13 @@ Research Articles
 -----------------
 Link to my [Google Scholar][0] profile.
 
+**16 Soluble TREM2 inhibits secondary nucleation of Aβ fibrillization and enhances cellular uptake of fibrillar Aβ**<br>
+K.D. Belsare, H. Wu, D. Mondal, A. Bond, E. Castillo, J. Jin, H. Jo, A.E. Roush, **K.B. Pilla**, A. Sali, C. Condello, W.F. DeGrado.<br>
+Proc Natl Acad Sci USA 119, e2114486119, 2022.<br>
+
 **15 Bayesian metamodeling of complex biological systems across varying representations** <br>
 B. Raveh, L. Sun, K.L. White, T. Sanyal, J. Tempkin, D. Zheng, **K.B. Pilla**, J. Singla, C. Wang, J. Zha, A. Li, N.A. Graham, C. Kesselman, R.C. Stevens, A. Sali <br>
-Proc Natl Acad Sci USA 118, e2104559118, 2021 <br>
+Proc Natl Acad Sci USA 118, e2104559118, 2021, <br>
 
 **14 Macromolecular modeling and design in Rosetta: recent methods and frameworks**<br>
 J.K Leman, B.D Weitzner,[..] **K.B. Pilla** et al.<br>
