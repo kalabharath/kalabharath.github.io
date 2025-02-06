@@ -10,27 +10,27 @@ Research Articles
 -----------------
 Link to my [Google Scholar][0] profile.
 
-**17 Recognizing amino acid sidechains in a medium resolution cryo-electron density map**<br> 
+**17. Recognizing amino acid sidechains in a medium resolution cryo-electron density map**<br> 
 D. Mondal, V. Kumar, T. Satler, R. Ramachandran, D. Saltzberg, I. Chemmama, **K.B. Pilla**, I. Echeverria, B.M. Webb, M. Gupta, K.A. Verba, A. Sali.<br>
 bioRxiv, 2024.<br>
 
-**16 Soluble TREM2 inhibits secondary nucleation of Aβ fibrillization and enhances cellular uptake of fibrillar Aβ**<br>
+**16. Soluble TREM2 inhibits secondary nucleation of Aβ fibrillization and enhances cellular uptake of fibrillar Aβ**<br>
 K.D. Belsare, H. Wu, D. Mondal, A. Bond, E. Castillo, J. Jin, H. Jo, A.E. Roush, **K.B. Pilla**, A. Sali, C. Condello, W.F. DeGrado.<br>
 Proc Natl Acad Sci USA 119, e2114486119, 2022.<br>
 
-**15 Bayesian metamodeling of complex biological systems across varying representations** <br>
+**15. Bayesian metamodeling of complex biological systems across varying representations** <br>
 B. Raveh, L. Sun, K.L. White, T. Sanyal, J. Tempkin, D. Zheng, **K.B. Pilla**, J. Singla, C. Wang, J. Zha, A. Li, N.A. Graham, C. Kesselman, R.C. Stevens, A. Sali <br>
 Proc Natl Acad Sci USA 118, e2104559118, 2021, <br>
 
-**14 Macromolecular modeling and design in Rosetta: recent methods and frameworks**<br>
+**14. Macromolecular modeling and design in Rosetta: recent methods and frameworks**<br>
 J.K Leman, B.D Weitzner,[..] **K.B. Pilla** et al.<br>
 Nature methods 17 (7), 665-680	
 
-**13 A SARS-CoV-2 protein interaction map reveals targets for drug repurposing**<br>
+**13. A SARS-CoV-2 protein interaction map reveals targets for drug repurposing**<br>
 D.E. Gordon, G.M. Jang.[..] **K.B. Pilla** et al.<br>
 Nature 583 (7816), 459-468 <br>
 
-**12 SSEThread: Integrative threading of the DNA-PKcs sequence based on data from chemical cross-linking and hydrogen deuterium exchange**<br>
+**12. SSEThread: Integrative threading of the DNA-PKcs sequence based on data from chemical cross-linking and hydrogen deuterium exchange**<br>
 D.J. Saltzberg, M. Hepburn, **K.B Pilla**, DC Schriemer, SP Lees-Miller, T.L. Blundell, A. Sali <br>
 Progress in biophysics and molecular biology 147, 92-102<br>
 
