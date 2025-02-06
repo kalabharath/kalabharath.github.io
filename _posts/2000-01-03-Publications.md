@@ -10,7 +10,7 @@ Research Articles
 -----------------
 Link to my [Google Scholar][0] profile.
 
-**17 Recognizing amino acid sidechains in a medium resolution cryo-electron density map**<br>
+**17 Recognizing amino acid sidechains in a medium resolution cryo-electron density map**<br> 
 D. Mondal, V. Kumar, T. Satler, R. Ramachandran, D. Saltzberg, I. Chemmama, **K.B. Pilla**, I. Echeverria, B.M. Webb, M. Gupta, K.A. Verba, A. Sali.<br>
 bioRxiv, 2024.<br>
 
